@@ -32,7 +32,7 @@ export function fetchPost(id) {
 
     return {
         type: FETCH_POST,
-        payload: request
+        payload: request,
     };
 }
 
@@ -41,6 +41,6 @@ export function deletePost(id) {
 
     return {
         type: DELETE_POST,
-        payload: request
+        payload: id,
     };
 }
