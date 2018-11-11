@@ -3,7 +3,7 @@
 }
 
 .newPost {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .deleteBtnInShow {
     margin-bottom: 10px;
@@ -13,4 +13,10 @@
 }
 .delBtnIndex {
     margin-top: -7px;
+}
+.postsShow {
+    margin-top: 20px;
+}
+.showTitle {
+    margin-top: 10px;
 }
