@@ -1,5 +1,5 @@
 # Blog
-This is a blogging web application building with the React and Redux and React Router, etc.
+This is a blogging web application building with the React, Redux, React Router and Redux Form, etc.
 ## Getting Started
 I used the [Create React App](https://github.com/facebook/create-react-app) to initialize this app.
 ### Prerequisites
